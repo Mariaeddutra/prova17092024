@@ -1,0 +1,7 @@
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.AssemblyInfo.cs
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maria\Desktop\MariaEduarda\CrudVeiculos\obj\Debug\net8.0\CrudVeiculos.MvcApplicationPartsAssemblyInfo.cache
